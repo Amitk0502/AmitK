@@ -5,7 +5,7 @@ Used Power BI features like filters and slicers to enhance user interactivity an
 Successfully managed end-to-end data workflows, from data ingestion to visualization, streamlining processes and improving overall efficiency in data analysis and reporting.
 1. File named munnar_Dataset_before_data_cleaning.csv shows the data before data cleaning.
 2. File named munnar_dataset.csv shows data after data cleaning.
-3. File named Munnar_DataSet_Project.ipynb shows how i used functionality from Pyhton library pandas for data cleaning and data analysis.
+3. File named Munnar_DataSet_Project.ipynb shows how i used functionality from Python library pandas for data cleaning and data analysis.
 4. In file named 1.pbix, I used conditional formatting in Background colour and I used Format Style as Rules on column price and calcutaled the average of Price then implemented the conditional formatiing on Price column if average is lower than the value of Price will show 'Yellow colour' otherwise it will show 'Blue colour'.
 5. In file named 2.pbix, I used Pie chart to show Hotel names and their sum of rating.
 6. In file named 3.pbix, I used conditional formattiing in Background colour and I used Format style as Gradient on columns Rating, Reviews,Star Rating, Distance to Landmark, Price and Tax to show if the value of each column is lower then it will show the less % of that colour in each column and if the value higher then it will show the higher % of colour in that column.
